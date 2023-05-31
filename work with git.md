@@ -53,7 +53,6 @@ git config --global user.email "<адрес_почты@email.com>"
 
 * **git checkout -b NAME** - создание и перемещение в новую ветку
 
-* git add . - добавляет все файлы в папке в отслеживание
 
 ## **Cинтаксис языка Markdown**
 
