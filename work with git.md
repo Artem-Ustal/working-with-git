@@ -52,7 +52,9 @@ git config --global user.email "<адрес_почты@email.com>"
 
 * git reset HEAD~ - удаление последнего коммита
 
-* git checkout 
+* git checkout -b NAME - создание и перемещение в новую ветку
+
+
 
 
 ## **Cинтаксис языка Markdown**
